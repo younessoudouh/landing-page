@@ -1,2 +1,2 @@
 # landing-page
-<h1>I'm Back to Build</h1>
+<h2>I'm Back to Build</h2>
